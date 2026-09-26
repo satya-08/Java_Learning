@@ -1,7 +1,7 @@
 package Multithreading;
 class Counter{
 	int counter=0;
-	void incremet() {
+	void  incremet() {
 		counter++;
 	}
 }
