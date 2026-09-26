@@ -32,8 +32,8 @@ public class SingletonMain {
 			System.out.println(doublecheckedinstance2);
 			
 			//StaticNestedInnerClass
-			StaticNestedInnerClass StaticNestedInnerClassinstace1=new StaticNestedInnerClass();
-			StaticNestedInnerClass StaticNestedInnerClassinstance2=new StaticNestedInnerClass();
+			StaticNestedInnerClass StaticNestedInnerClassinstace1=StaticNestedInnerClass.getInstance();
+			StaticNestedInnerClass StaticNestedInnerClassinstance2=StaticNestedInnerClass.getInstance();
 			System.out.println(StaticNestedInnerClassinstace1);
 			System.out.println(StaticNestedInnerClassinstance2);
 			
