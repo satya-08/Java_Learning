@@ -1,6 +1,6 @@
-package Streams.OutputStreams;
+package FileHandling.Streams.OutputStreams;
 
-import Streams.InputStreams.ByteArrayInputStreamExample;
+import FileHandling.Streams.InputStreams.ByteArrayInputStreamExample;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Streams.OutputStreams;
+package FileHandling.Streams.OutputStreams;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

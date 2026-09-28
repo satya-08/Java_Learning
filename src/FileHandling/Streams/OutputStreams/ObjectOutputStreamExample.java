@@ -1,6 +1,6 @@
-package Streams.OutputStreams;
+package FileHandling.Streams.OutputStreams;
 
-import Streams.InputStreams.ObjectInputStream.Employee;
+import FileHandling.Streams.InputStreams.ObjectInputStream.Employee;
 
 import java.io.*;
 
