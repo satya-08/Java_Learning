@@ -1,4 +1,4 @@
-package solidPrinciples.L_LiskovSubstitution;
+package DesignPatterns.solidPrinciples.L_LiskovSubstitution;
 
 public class CreditCard implements PaymentService{
     @Override

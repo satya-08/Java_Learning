@@ -1,4 +1,4 @@
-package solidPrinciples.S_SingleResposibility;
+package DesignPatterns.solidPrinciples.S_SingleResposibility;
 
 public class notificationsService {
 

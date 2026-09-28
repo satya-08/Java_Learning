@@ -1,4 +1,4 @@
-package solidPrinciples.I_InterfaceSegregation;
+package DesignPatterns.solidPrinciples.I_InterfaceSegregation;
 
 public interface Employee {
 //    void writeCode();

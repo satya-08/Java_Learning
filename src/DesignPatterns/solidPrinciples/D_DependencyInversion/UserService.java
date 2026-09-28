@@ -1,4 +1,4 @@
-package solidPrinciples.D_DependencyInversion;
+package DesignPatterns.solidPrinciples.D_DependencyInversion;
 
 public class UserService {
 //    private MySQLDatabase db1=new MySQLDatabase();

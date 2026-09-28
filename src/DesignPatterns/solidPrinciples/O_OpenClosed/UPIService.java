@@ -1,4 +1,4 @@
-package solidPrinciples.O_OpenClosed;
+package DesignPatterns.solidPrinciples.O_OpenClosed;
 
 public class UPIService implements PaymentService {
     @Override

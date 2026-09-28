@@ -1,4 +1,4 @@
-package solidPrinciples.L_LiskovSubstitution;
+package DesignPatterns.solidPrinciples.L_LiskovSubstitution;
 import java.util.List;
 public class Main {
     public static void main(String[] args) {

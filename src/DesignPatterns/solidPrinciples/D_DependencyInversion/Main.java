@@ -1,4 +1,4 @@
-package solidPrinciples.D_DependencyInversion;
+package DesignPatterns.solidPrinciples.D_DependencyInversion;
 
 public class Main {
     static void main(String[] args) {
